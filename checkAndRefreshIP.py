@@ -7,7 +7,7 @@ currentip = ''
 
 user = '{SENDER_MAIL}@gmail.com'
 app_password = '{APP_PASSWD}'
-to = '{RECIEVER_MAIL}@inspedralbes.cat'
+to = '{RECIEVER_MAIL}@gmail.com'
 
 subject = 'Your IP has changed!'
 content = []
@@ -36,3 +36,4 @@ while True:
     else:
         print("No ip changes")
     
+
